@@ -1,4 +1,4 @@
-##UniVerse: A Full-Stack Social Media Website 🌐
+<h1>UniVerse: A Full-Stack Social Media Website 🌐</h1>
 
 🎉 Welcome to UniVerse, a comprehensive social media platform built as a major college project 🎓. This repository contains the entire codebase for the project, which includes both the frontend and backend components 🤖.
 About UniVerse 🤔
@@ -15,14 +15,14 @@ Features 🎉
 - Search functionality for users and posts 🔍
 - Responsive design for optimal user experience on desktop and mobile devices 📱
 
-Technologies Used 💻
+<h2>Technologies Used 💻 </h2>
 
-Frontend: React, Redux, React Router, CSS3, HTML5 🌈
-Backend: Node.js, Express, MongoDB, Mongoose 🚀
-Database: MongoDB 📊
-Deployment: Vercel ✈️
+  - Frontend: React, Redux, React Router, CSS3, HTML5 🌈
+  - Backend: Node.js, Express, MongoDB, Mongoose 🚀
+  - Database: MongoDB 📊
+  - Deployment: Vercel ✈️
 
-Getting Started 🚀
+<h2>Getting Started 🚀</h2>
 
 To get started with UniVerse, follow these steps:
 
@@ -31,13 +31,14 @@ To get started with UniVerse, follow these steps:
 3. Start the development server using npm start or yarn start 💻
 4. Open your web browser and navigate to http://localhost:3000 🌐
 
-Contributing 🤝
+<h2>Contributing 🤝</h2>
 
 Contributions to UniVerse are welcome! 🎉 If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes 📝.
 License 📜
 
 UniVerse is licensed under the MIT License 📝. See the LICENSE file for more information.
-Acknowledgments 🙏
+
+<h2>Acknowledgments 🙏</h2>
 
 I would like to acknowledge the following resources and libraries that were used in the development of UniVerse:
 
@@ -47,7 +48,7 @@ MongoDB 📊
 Express 🚂
 Mongoose 📈
 
-Contact 📲
+<h2>Contact 📲</h2>
 
 If you have any questions or need further assistance, please don't hesitate to reach out to me at your-email-address 📧.
 
