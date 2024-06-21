@@ -1,4 +1,4 @@
-UniVerse: A Full-Stack Social Media Website 🌐
+##UniVerse: A Full-Stack Social Media Website 🌐
 
 🎉 Welcome to UniVerse, a comprehensive social media platform built as a major college project 🎓. This repository contains the entire codebase for the project, which includes both the frontend and backend components 🤖.
 About UniVerse 🤔
